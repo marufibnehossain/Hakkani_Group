@@ -106,7 +106,7 @@ b.light-color{ color: #444; }
 
 .left-section{ float: left; width: 50%; position: relative; }
 
-.left-section .logo{ position: absolute; top: 40px; height: 150px; }
+.left-section .logo{ position: absolute; top: 40px; height: 170px; }
 
 .left-section .logo img{ height: 100%; width: auto; } 
 
@@ -156,7 +156,7 @@ b.light-color{ color: #444; }
 4. RIGHT SECTION
 --------------------------------- */
 
-.right-section{ position: absolute; top: 0; bottom: 0; right: 0; width: 50%; background-size: cover; z-index: 1; }
+.right-section{ position: absolute; top: 0; bottom: 0; right: 0; width: 50%; background-position: center; background-size: cover; z-index: 1; }
 
 .overlay1 {
 	position: relative;
